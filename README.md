@@ -11,4 +11,5 @@ This is my first time creating a README.
 * Markdown
 * VSCode
 * GitHub
+* Technology
 
